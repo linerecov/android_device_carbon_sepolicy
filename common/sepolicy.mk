@@ -3,5 +3,5 @@
 # inherit from Lineage
 #
 
-BOARD_SEPOLICY_DIRS += \
-    device/aquarios/sepolicy/common
+BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
+    device/aquarios/sepolicy/common/private
