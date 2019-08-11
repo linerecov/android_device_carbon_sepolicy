@@ -30,4 +30,3 @@ BOARD_SEPOLICY_DIRS += \
     device/aquarios/sepolicy/common/dynamic \
     device/aquarios/sepolicy/common/vendor
 endif
-
